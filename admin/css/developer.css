@@ -1,0 +1,22 @@
+.admin-heading{
+    margin: 50px;
+    font-size: 30px;
+}
+
+.form-group{
+    margin: 30px;
+}
+.form-group input{
+    margin-left: 20px;
+}
+
+.btn{
+    width: 200px;
+    background-color: greenyellow;
+    color: black;
+    transition: all .5s ease-in;
+}
+.btn:hover{
+    background-color: black ;
+    color: greenyellow;
+}
